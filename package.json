@@ -19,7 +19,7 @@
 		"snippets": [
 			{
 				"language": "cpp",
-				"path": "./include-snippets.json"
+				"path": "./include-snippets.jsonc"
 			}
 		]
 	},

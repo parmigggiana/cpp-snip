@@ -1,0 +1,38 @@
+{
+	"Include": {
+		"prefix": "#include <",
+		"body": [
+			"#include <$0>"
+		]
+	},
+	/* "For": {
+		"prefix": "for (int i = 0;",
+		"body": [
+			"for (int $1 = 0; $1 < $2; ++$1) {",
+			"$0",
+			"}"
+		]
+	},
+	"While": {
+		"prefix": "while (",
+		"body": [
+			"while ($1) {",
+			"$0",
+			"}"
+		]
+	},
+	"Dowhile" : {
+		"prefix": "do {",
+		"body": [
+			"do {",
+			"$1",
+			"} while ($2);"
+		]
+	}, */
+	"return0": {
+		"prefix": "return ",
+		"body": [
+			"return 0;"
+		]
+	}
+}
