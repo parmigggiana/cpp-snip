@@ -4,9 +4,9 @@ Personal collection of snippets for C++
 
 ## Features
 
-\#include <>
-for(int i = 0; $1; ++i) {}
-return 0;
+\#include <> <br/>
+for(int i = 0; $1; ++i) {}  <br />
+return 0; <br />
 
 ## Requirements
 
@@ -18,11 +18,13 @@ la vita ————————————————————————
 ## Release Notes
 
 we
-### 0.0.1
+### 0.0.3
+forse mo funzion
 
-Initial release of
-•include
-•for
-•return
+### 0.0.1
+Initial release of<br />
+•include<br />
+•for<br />
+•return<br />
 
 **owo**
