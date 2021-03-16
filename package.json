@@ -2,7 +2,7 @@
 	"name": "cpp-snip",
 	"displayName": "cpp-snip",
 	"description": "Snippets collection for C++",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "parmigggiana",
 	"repository": "https://github.com/parmigggiana/cpp-snip",
 	"engines": {
