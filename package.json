@@ -4,7 +4,7 @@
 	"description": "Snippets collection for C++",
 	"version": "0.0.1",
 	"publisher": "parmigggiana",
-	"repository": "",
+	"repository": "https://github.com/parmigggiana/cpp-snip",
 	"engines": {
 		"vscode": "^1.54.0"
 	},
