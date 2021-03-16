@@ -15,7 +15,7 @@
 		"onLanguage:cpp",
 		"onCommand:startsnip"
 	],
-	"main": "./src/extension.ts",
+	"main": "./out/extension.js",
 	"contributes": {
 		"commands": {
 			"command": "startsnip",
@@ -24,7 +24,7 @@
 		"snippets": [
 			{
 				"language": "cpp",
-				"path": "./src/include-snippets.json"
+				"path": "./include-snippets.json"
 			}
 		]
 	},
