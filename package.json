@@ -12,15 +12,10 @@
 		"Snippets"
 	],
 	"activationEvents": [
-		"onLanguage:cpp",
-		"onCommand:startsnip"
+		"onLanguage:cpp"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
-		"commands": {
-			"command": "startsnip",
-			"title": "Start C++ snippets extension"
-		},
 		"snippets": [
 			{
 				"language": "cpp",

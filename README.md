@@ -18,6 +18,10 @@ la vita ————————————————————————
 ## Release Notes
 
 we
+
+### 0.1.0
+ok mo dovrebbe andare mannacc o cazz
+
 ### 0.0.3
 forse mo funzion
 
