@@ -1,0 +1,22 @@
+{
+	"Include": {
+		"prefix": "#include <",
+		"body": [
+			"#include <$0>"
+		]
+	},
+	"For": {
+		"prefix": "for (int i = 0;",
+		"body": [
+			"for (int i = 0; $0; ++i) {",
+			"",
+			"}"
+		]
+	},
+	"return0": {
+		"prefix": "return ",
+		"body": [
+			"return 0;"
+		]
+	}
+}
