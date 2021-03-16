@@ -1,4 +1,4 @@
-# cpp-snip README
+# cpp-snip
 
 Personal collection of snippets for C++
 
